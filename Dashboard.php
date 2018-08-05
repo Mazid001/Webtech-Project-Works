@@ -20,9 +20,9 @@
 	
 	<div class="navsection template clear">
 		<ul>
-			 <li><a href="#">Academics</a></li> 
-			 <li><a href="#">About</a></li>
-			 <li><a href="#">Contact</a></li>
+			 <li><a href="http://www.aiub.edu/academics">Academics</a></li> 
+			 <li><a href="http://www.aiub.edu/about">About</a></li>
+			 <li><a href="http://www.aiub.edu/contact">Contact</a></li>
 			 <li><a href="#">Others</a></li>
 		 
 		 </ul>
