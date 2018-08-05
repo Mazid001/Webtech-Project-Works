@@ -21,8 +21,7 @@
 			<b>&nbsp;Personal</b><hr/>
             <ul>
 			
-                <li><a href="change_password.php" target="iFrame">Change Password</a></li>
-                <li><a href="../logout.php">Logout</a></li>
+		    <li><a href="change_password.php" target="iFrame">Change Password</a></li>
             </ul>
         </td>
         <td valign="top">
