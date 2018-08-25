@@ -1,17 +1,24 @@
 <!doctype html>
 <body>
 	<head>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/mystyle.css">
+  <style>  
+	  a:link {
+      color: green;
+      background-color: transparent;
+      text-decoration: none;
+   }
+   </style>
 	</head>
 	
 	
 	<div class="headersection template clear">
-		<h4><i>Welcome to Online School Management Systems</i></h4>
+		<h4><i>Welcome to Online School Management System</i></h4>
 			<div align="right">
 						<a href="#" >Home</a>&nbsp;|
 						<a href="login.php">Login</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-						<a href="Student_reg.php"><img src="image/login.png">Registration As A Student</a>&nbsp;|
-						<a href="Teacher_reg.php"><img src="image/login.png">Registration As A Teacher</a>
+						<a href="Student_reg.php"><img height="30" src="image/log.png">Registration As Student</a>&nbsp;|
+						<a href="Teacher_reg.php"><img height="30" src="image/log.png">Registration As Teacher</a>
 					</div>
 
 		
@@ -20,9 +27,9 @@
 	
 	<div class="navsection template clear">
 		<ul>
-			 <li><a href="http://www.aiub.edu/academics">Academics</a></li> 
-			 <li><a href="http://www.aiub.edu/about">About</a></li>
-			 <li><a href="http://www.aiub.edu/contact">Contact</a></li>
+			 <li><a href="#">Academics</a></li> 
+			 <li><a href="#">About</a></li>
+			 <li><a href="#">Contact</a></li>
 			 <li><a href="#">Others</a></li>
 		 
 		 </ul>
@@ -88,11 +95,28 @@
 	
 	
     <div class="footersection template clear">
-	 <p>Footer</p>
+	 <p>Put Something</p>
 	
 	
 	</div>
 	
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+							
+	
+    
 
 </body>
