@@ -99,12 +99,12 @@
 			<table width="100%">
                 <tr>
                     <td>
-                        <a href="loggedin.php" target="iFrame">
-                            <img height="48" src="../image/hi.png">
+                        
+                            <img height="55" src="../image/home.png">
                         </a>
                     </td>
                     <td align="right">
-                        Logged in as <a href="<?php if($_SESSION["type"]=="a") {echo "Admin_panel.php";} else { echo "profile.php"; } ?>" target="iFrame"><?php echo $_SESSION["name"]; ?></a>&nbsp;|
+                        Logged in as <a href="<?php if($_SESSION["type"]=="a") {echo "Admin_panel.php";} else {  } ?>" target="iFrame"><?php echo $_SESSION["name"]; ?></a>&nbsp;|
                         <a href="../logout.php">Logout</a>
                     </td>
                 </tr>

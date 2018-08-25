@@ -1,18 +1,28 @@
+<head>
+    <style>
+    a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+   }
+   </style>
+</head>
+
 <table width="80%" align="center" cellspacing="0" cellpadding="10" border="1">
     <tr>
         <td valign="middle" height="70">  
 			<table width="100%">
 				<tr>					
 					<td>
-						<a href="home1.html" target="iFrame">
-							<img height="48" src="image/hi.png" />
+						<a href="Dashboard.php">
+							<img height="55" src="image/home.png" />
 						</a>
 					</td>
 					<td align="right">
-						<a href="Dashboard.php" target="iFrame">Home</a>&nbsp;|
-						<a href="login.php" target="iFrame">Login</a></br>
-						<a href="Teacher_reg.php"><img src="image/login.png">Registration As Teacher</a>&nbsp;|
-						<a href="Student_reg.php"><img src="image/login.png">Registration As Student</a>
+						<a href="Dashboard.php" >Home</a>&nbsp;|
+						<a href="login.php" >Login</a></br>
+						<a href="Teacher_reg.php"><img height="30" src="image/log.png">Registration As Teacher</a>&nbsp;|
+						<a href="Student_reg.php"><img height="30" src="image/log.png">Registration As Student</a>
 					</td>
 				</tr>
 			</table>
